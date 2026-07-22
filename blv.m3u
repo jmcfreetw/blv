@@ -1,15 +1,28 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2FQqLqj/Photo-1784528515356.png" group-title="XemTV", 🟢 ⚽ - blv tao thao [LIVE]
+#EXTM3U x-tvg-url=""
+
+# =================================================================
+#  📺 XEMTV VIP — FOOTBALL LIVE STREAM
+# =================================================================
+
+# ⚽ BÌNH LUẬN VIÊN LIVE ──────────────────────────────────────────
+
+#EXTINF:-1 tvg-id="blv.taothao" tvg-name="Tào Tháo" tvg-logo="https://i.ibb.co/B2FQqLqj/Photo-1784528515356.png" group-title="🔥 LIVE STREAM VIP", Tào Tháo 🔥 VIP
 https://hls.cdnfaster-a.live/live/TAOTHAO/index.m3u8?expire=1917964380&sign=6379fc6251248341f0547089859f8ee9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2FQqLqj/Photo-1784528515356.png" group-title="XemTV", 🟢 ⚽ - blv phi ho [LIVE]
+
+#EXTINF:-1 tvg-id="blv.phiho" tvg-name="Phi Hổ" tvg-logo="https://i.ibb.co/B2FQqLqj/Photo-1784528515356.png" group-title="🔥 LIVE STREAM VIP", Phi Hổ 🔥 VIP
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2FQqLqj/Photo-1784528515356.png" group-title="XemTV", 🟢 ⚽ - blv co ca [LIVE]
+
+#EXTINF:-1 tvg-id="blv.coca" tvg-name="Cỏ Cả" tvg-logo="https://i.ibb.co/B2FQqLqj/Photo-1784528515356.png" group-title="🔥 LIVE STREAM VIP", Cỏ Cả 🔥 VIP
 https://live05.miekgo.app/live/24561735.m3u8?_t=1784389156608
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2FQqLqj/Photo-1784528515356.png" group-title="XemTV", 🟢 ⚽ - blv bi dao [LIVE]
+
+#EXTINF:-1 tvg-id="blv.bidao" tvg-name="Bí Đao" tvg-logo="https://i.ibb.co/B2FQqLqj/Photo-1784528515356.png" group-title="🔥 LIVE STREAM VIP", Bí Đao 🔥 VIP
 https://live05.miekgo.app/live/99121525.m3u8?_t=1784391812057
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2FQqLqj/Photo-1784528515356.png" group-title="XemTV", 🟢 ⚽ - blv c2 [LIVE]
+
+#EXTINF:-1 tvg-id="blv.c2" tvg-name="C2" tvg-logo="https://i.ibb.co/B2FQqLqj/Photo-1784528515356.png" group-title="🔥 LIVE STREAM VIP", C2 🔥 VIP
 https://live05.miekgo.app/live/08552895.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2FQqLqj/Photo-1784528515356.png" group-title="XemTV", 🟢 ⚽ - blv 7 up [LIVE]
+
+#EXTINF:-1 tvg-id="blv.7up" tvg-name="7Up" tvg-logo="https://i.ibb.co/B2FQqLqj/Photo-1784528515356.png" group-title="🔥 LIVE STREAM VIP", 7Up 🔥 VIP
 https://live05.miekgo.app/live/78905744.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2FQqLqj/Photo-1784528515356.png" group-title="XemTV", 🟢 ⚽ - blv sprite [LIVE]
+
+#EXTINF:-1 tvg-id="blv.sprite" tvg-name="Sprite" tvg-logo="https://i.ibb.co/B2FQqLqj/Photo-1784528515356.png" group-title="🔥 LIVE STREAM VIP", Sprite 🔥 VIP
 https://live05.miekgo.app/live/75748097.m3u8
